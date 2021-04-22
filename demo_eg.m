@@ -1,14 +1,14 @@
-% This script is free to use and modify, and is openly distributed, 
-% but the copyright is owned by Dr Stephen Suryasentana (stephen@autogeolab.com).
-% This script may not be re-distributed as a part of a commercial product unless agreed upon with the copyright owner.
-% This script is distributed WITHOUT ANY WARRANTY, or any implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-% This script requires SeDuMi and YALMIP to be installed in Matlab.
+% This software is made available under the GPL license, 
+% but the copyright is owned by Dr Stephen Suryasentana, 2021 (stephen@autogeolab.com).
 %
-% Any use of this script (or forks or modified versions of it) in a
-% published work must cite the following publication:
+% Over and above the legal restrictions imposed by the GPL license, any use of this software
+% must cite the following publication:
 % 'Suryasentana, S. K., Burd, H. J., Byrne, B. W., & Shonberg, A. (2020). A 
 % systematic framework for formulating convex failure envelopes in multiple 
 % loading dimensions. Géotechnique, 70(4), 343-353'.
+%
+% This software is distributed WITHOUT ANY WARRANTY, or any implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+% This software requires SeDuMi and YALMIP to be installed in Matlab.
 
 clc;
 close all;
